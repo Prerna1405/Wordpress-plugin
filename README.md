@@ -1,2 +1,15 @@
-# Wordpress-plugin
-Developed a lightweight WordPress plugin to dynamically display featured projects with responsive layout, custom post types, and shortcode integration. Enabled easy project management from the backend while keeping the frontend clean, animated, and brand-aligned. Focused on modular PHP, secure WordPress coding practices, and theme compatibility.
+# WordPress Portfolio Template – Prerna Ahire
+
+This is a saved WordPress template created using the block editor to showcase a developer portfolio. It includes:
+- Dark-themed design with purple accent
+- Project cards with animation
+- Contact section with Preahvihear font
+- Smooth scroll and responsiveness
+
+## How to Use
+1. Import this template into a WordPress site using the block editor or your page builder.
+2. Customize content and images as needed.
+3. Apply to a blank page and set as the homepage.
+
+## Author
+[Prerna Ahire](https://www.linkedin.com/in/prernaahire/)
